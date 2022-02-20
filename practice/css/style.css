@@ -1,0 +1,48 @@
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+  width: 700px;
+  margin: auto;
+  margin-top: 30px;
+  }
+
+  .card-header {
+    height: 130px;
+    background-color: lightblue;
+    border-radius: 3px 3px 0px 0px;
+  }
+
+  .card-header img {
+    width: 136px;
+    position: relative;
+    top: 42px;
+    left: 60px;
+    border: 3px gray solid;
+    border-radius: 50%;
+  }
+
+  .card-body {
+    height: 150px;
+    border: 1px solid lightgray;
+    border-top: none;
+    padding: 60px;
+    padding-top: 75px;
+  }
+
+  h3 img {
+    width: 15px;
+    padding-top: 10px;
+  }
+
+  p {
+    margin-top: 15px;
+    font-size: large;
+  }
+
+.pEnlace img {
+  width: 15px; 
+  color: blue;
+}
